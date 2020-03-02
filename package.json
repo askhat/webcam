@@ -1,0 +1,21 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Askhat Bikmetov <lolborgini@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.13.0"
+  }
+}
